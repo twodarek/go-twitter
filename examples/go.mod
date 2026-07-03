@@ -1,6 +1,6 @@
 module github.com/dghubble/go-twitter/examples
 
-go 1.17
+go 1.25.0
 
 require (
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f
@@ -14,7 +14,7 @@ require (
 	github.com/dghubble/sling v1.4.0 // indirect
 	github.com/golang/protobuf v1.2.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
-	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	google.golang.org/appengine v1.4.0 // indirect
 )
 
